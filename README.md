@@ -1,1 +1,1 @@
-## Ratio — Программа обучения обучения junior frontend-разработчика на Vue.js от Ratio
+## Ratio — Программа обучения junior frontend-разработчика на Vue.js от Ratio
